@@ -1,0 +1,5 @@
+To-Do:
+- Maybe try DBSCAN later
+- Add silhouette score comparison
+- Try scaling with RobustScaler also
+- Could add customer personas section
