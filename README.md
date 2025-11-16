@@ -10,3 +10,5 @@ Features
 ⦁	Visualizations (can be added later)
 ⦁	Human-like notes & comments
 More improvements might be added later.
+
+Left with adding charts.
